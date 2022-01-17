@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Jan 2022 16:52:31 at https://www.enter-name.com/ahi/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.enter-name.com/ahi/ -O1 "C:\My Web Sites\new proj" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:52:55	Error: 	"Not Found" (404) at link https://www.enter-name.com/ahi/second1-bg.gif (from https://www.enter-name.com/ahi/)
+16:52:57	Error: 	"Not Found" (404) at link https://www.enter-name.com/ahi/snow.js (from https://www.enter-name.com/ahi/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 29 links scanned, 26 files written (3154911 bytes overall) [2959455 bytes received at 113825 bytes/sec], 276923 bytes transferred using HTTP compression in 7 files, ratio 22%, 3.2 requests per connection
+(2 errors, 0 warnings, 0 messages)
